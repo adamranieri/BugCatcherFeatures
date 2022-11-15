@@ -11,6 +11,17 @@ A team has recently completed a prototype of a new Test Case and Bug Reporting m
   - All user stories must be included but you can add more.
 - A Defect Report 
    - You may use the one provided or as a template to base your own off of. 
+- Used test reporting software
+  - Your trainer will have shown how to use a Test Reporting software to track your progress
+
+## Rubric
+|Deliverable| Points |
+|-----------|--------|
+|Features Automated | 15 |
+|Test Reporting Software Used| 10 | 
+|Defect Report | 5 |
+| RTM | 5 |
+|Total Points | 35 |
 
 ## Test Data
 - All dynamically created entities have a randomly generated 5 digit number
